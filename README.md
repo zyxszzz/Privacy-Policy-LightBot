@@ -11,7 +11,7 @@ Data is stored in a MongoDB database. The database is secured to prevent externa
 
 ## User Rights
 
-At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](http://chat.nhcarrigan.com). You have the right to request the removal of relevant Data.
+At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://discord.gg/FS4MyCNeGM). You have the right to request the removal of relevant Data.
 
 ## Underage Users
 
