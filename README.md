@@ -3,7 +3,7 @@ The use of this application ("Bot") in a server requires the collection of some 
 
 ## Access to Data
 
-Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from `@nhcarrigan`.
+Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from `@'zyx#8977`.
 
 ## Storage of Data
 
@@ -19,4 +19,4 @@ The use of the Bot is not permitted for minors under the age of 13, or under the
 
 ## Questions
 
-If you have any questions or are concerned about what data might be being stored from your account contact `@zyx#8977`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
+If you have any questions or are concerned about what data might be being stored from your account contact `@'zyx#8977`. For more information check the [Discord Terms Of Service](https://discord.com/terms).
